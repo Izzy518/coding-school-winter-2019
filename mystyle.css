@@ -17,3 +17,8 @@ header h1{
 a; hover{
 color: salmon;
 }
+body{
+     background-color: #ff7785;
+     color: #ff384f;
+     border-style: solid;
+    }
